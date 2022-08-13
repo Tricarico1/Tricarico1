@@ -37,19 +37,14 @@ Welcome to my Github page! I am Nathaniel and I am currently finishing my Comput
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=tricarico1&theme=<THEME_NAME>" />
 
 
 
 
 
-- 👋 Hi, I’m @Tricarico1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 <!---
 Tricarico1/Tricarico1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
