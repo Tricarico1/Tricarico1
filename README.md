@@ -7,13 +7,13 @@
 
 Welcome to my Github page! I am Nathaniel and I am currently finishing my Computer Information Technology Master degree (MCIT) at the University of Pennsylvania!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Tricarico1/Tricarico1/blob/main/Nate.JPG" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Finishing in my Computer Master's Degree (Graduation date: Fall 2023)  
+- Enrolled in CodePath: Certificate in Intermediate Software Engineering (August 2022) 
+- Pathfinding Visualizer: Creating a website to demonstrate how different algorithms arrive at the shortest path
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
