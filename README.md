@@ -33,7 +33,7 @@ Welcome to my Github page! I am Nathaniel and I am currently a student at Upenn 
 <br />
 
 
-#### :muscle: Previous Engineering Experience:
+#### ☢️ Previous Engineering Experience:
 - PSEG Salem Nuclear Generation Station – Nuclear Engineer
 	- Managed system performance to meet plant safety, power produciton, and cost goals by preventing critical equipment failures.
 	- Tracked, analyzed, and modeled daily Megawatt production by creating excel spreadsheets to trend electricity gains safety and system health. 	
