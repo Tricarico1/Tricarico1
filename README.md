@@ -59,7 +59,7 @@ Welcome to my Github page! I am Nathaniel and I am currently a student at Upenn 
 
 
 
-
+ 
 
 <!---
 Tricarico1/Tricarico1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
