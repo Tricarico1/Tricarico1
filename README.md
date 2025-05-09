@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-tricarico/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nathanieltricarico@gmail.com)
 
-Welcome to my Github page! I am Nathaniel and I am currently a software engineer at SiriusXM.  I previously worked as a nuclear engineer at a nuclear power plant and for the navy, but now I am fully invested in the computer science world.
+Welcome to my Github page! I am Nathaniel and I am currently a software engineer at SiriusXM.
 
 <img align="right" alt="img" src="https://github.com/Tricarico1/Tricarico1/blob/main/Nate.jpeg" width="50%" height="auto" />
 
